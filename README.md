@@ -12,6 +12,13 @@ This repository Dockerizes the suite of next opportunity repositories. Those are
 
 ---
 
+## Assumptions
+
+Only one assumption is made here and that is that you already have Docker and docker-compose installed on your machine. If you have those installed, you can easily spin up an instance locally on your machine
+
+
+---
+
 ## How Do You Run This?
 
 Clone [next-opportunity-docker](https://github.com/DanazSdiq/next-opportunity-docker) repository:
