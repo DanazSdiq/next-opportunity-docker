@@ -69,4 +69,4 @@ The `next-opportunity-generation-pipeline` service basically looks for pre-defin
 | server 	| TypeScript 	| Express 	| [link](https://github.com/DanazSdiq/next-opportunity-server) 	|
 | client 	| TypeScript 	| React 	| [link](https://github.com/DanazSdiq/next-opportunity-client) 	|
 | migrations 	| TypeScript 	| Knex 	| [link](https://github.com/DanazSdiq/next-opportunity-migrations) 	|
-| docker 	| yml 	| Docker and Docker Compose 	| [link](https://github.com/DanazSdiq/next-opportunity-docker) 	|
+| docker 	| YAML 	| Docker and Docker Compose 	| [link](https://github.com/DanazSdiq/next-opportunity-docker) 	|
