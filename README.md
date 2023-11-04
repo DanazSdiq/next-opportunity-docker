@@ -4,7 +4,7 @@ This repository Dockerizes the suite of next opportunity repositories. Those are
 
 - [next-opportunity-generation-pipeline](https://github.com/DanazSdiq/next-opportunity-generation-pipeline): This is the pipeline that generates opportunities
 
-- [next-opportunity-client](https://github.com/DanazSdiq/next-opportunity-client): This is the client facing repository. Just open http://localhost:3000/opportunities locally after running
+- [next-opportunity-client](https://github.com/DanazSdiq/next-opportunity-client): This is the client facing repository. Just open http://localhost:3000/opportunities locally after running `docker-compose` file
 
 - [next-opportunity-server](https://github.com/DanazSdiq/next-opportunity-server): This is the server repository
 
