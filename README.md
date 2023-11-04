@@ -1,4 +1,4 @@
-# next-opportunity-docker
+# Next Opportunity Docker
 
 This repository Dockerizes the suite of next opportunity repositories. Those are:
 
